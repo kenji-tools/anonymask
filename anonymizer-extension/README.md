@@ -10,7 +10,7 @@ Extension Chrome qui anonymise automatiquement les données personnelles lors d'
 
 ### Étape 1 — Télécharger et dézipper
 
-Téléchargez le fichier `.zip` de l'extension (bouton <> Code sur Github) et dézippez-le dans un dossier permanent sur votre ordinateur (ne le supprimez pas après, Chrome en aura besoin).
+Téléchargez le fichier `.zip` de l'extension (bouton "<> Code" sur Github sur le répertoire "anonymask") et dézippez-le dans un dossier permanent sur votre ordinateur (ne le supprimez pas après, Chrome en aura besoin).
 
 ### Étape 2 — Ouvrir la page des extensions Chrome
 
