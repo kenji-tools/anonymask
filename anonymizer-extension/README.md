@@ -26,7 +26,7 @@ En haut à droite de la page, activez le toggle **"Mode développeur"**.
 
 ### Étape 4 — Charger l'extension
 
-Cliquez sur **"Charger l'extension non empaquetée"** (bouton en haut à gauche), puis sélectionnez le dossier dézippé — celui qui contient directement le fichier `manifest.json`.
+Cliquez sur **"Charger l'extension non empaquetée"** (bouton en haut à gauche), puis sélectionnez le dossier dézippé — celui qui s'appelle ```anonymiser-extension```, contenu dans le dossier principal.
 
 ### Étape 5 — Épingler l'extension (optionnel)
 
